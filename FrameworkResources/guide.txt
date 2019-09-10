@@ -1,0 +1,4 @@
+
+SELENIUM CORE
+SeleniumCore is designed to manage the browser instances as well as element interactions. 
+This component helps you to create, and destroy WebDriver objects.
